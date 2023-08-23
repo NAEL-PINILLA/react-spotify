@@ -12,7 +12,7 @@ See it in action [here](http://NAEL-PINILLA.github.io/react-spotify)
 If you wish to run the code locally run the following.
 
 ```
-npm
+npm install
 npm start
 visit http://localhost:3000
 ```
